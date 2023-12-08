@@ -1,0 +1,18 @@
+.nav{
+  display: flex;
+  padding-left: 2vw;
+}
+.Link{
+  text-decoration: none;
+  color: white;
+  font-size: 5vh;
+}
+h1{
+  text-align: center;
+}
+.a{
+  margin-left: 60vw;
+}
+.b{
+  margin-left: 10vh;
+}
